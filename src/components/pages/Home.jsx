@@ -39,7 +39,7 @@ const Home = () => {
         <div className="w-full lg:max-w-[662px]">
           <ProductTable data={productTableData} />
         </div>
-        <div className="w-[202px]">
+        <div className="w-full xl:w-auto">
           <SalesChart />
         </div>
       </div>

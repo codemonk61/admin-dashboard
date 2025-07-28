@@ -12,9 +12,9 @@ import locations from "/src/data/revenueLocations.json";
 const RevenueLocation = () => {
   const { theme } = useTheme();
   return (
-    <div
-      className={`bg-primary p-6 rounded-2xl w-[202px] flex- flex-col justify-center`}
-    >
+<div className="bg-primary p-6 rounded-2xl w-full sm:max-w-[202px] flex flex-col justify-center">
+
+
       <h3 className="text-center text-text text-sm font-semibold mb-4">
         Revenue by Location
       </h3>

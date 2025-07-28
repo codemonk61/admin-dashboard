@@ -21,7 +21,8 @@ const CustomTooltip = ({ active, payload }) => {
 
 const SalesChart = () => {
   return (
-    <div className="flex flex-col items-center p-6 bg-primary rounded-2xl w-full sm:w-[202px] min-w-[200px] max-w-[272px] relative">
+    <div className="flex flex-col items-center p-6 bg-primary rounded-2xl w-full sm:w-[202px] max-w-full sm:max-w-[272px]">
+
       <h3 className="text-sm font-semibold text-text w-full">Total Sales</h3>
 
       <div className="w-full h-[147px]">
