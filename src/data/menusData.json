@@ -1,0 +1,52 @@
+{
+  "menus": [
+    {
+      "title": "eCommerce",
+      "iconSrc": "/assets/icons/cart.svg",
+      "subMenus": ["Menu 1", "Menu 2", "Menu 3"]
+    },
+    {
+      "title": "Projects",
+      "iconSrc": "/assets/icons/folder.svg",
+      "subMenus": ["Menu 4", "Menu 5", "Menu 6"]
+    },
+    {
+      "title": "Online Courses",
+      "iconSrc": "/assets/icons/openBook.svg",
+      "subMenus": ["Menu 7", "Menu 8", "Menu 9"]
+    }
+  ],
+  "pagesMenus": [
+    {
+      "title": "User Profile",
+      "iconSrc": "/assets/icons/contact2.svg",
+      "subMenus": [
+        "Overview",
+        "Projects",
+        "Campaigns",
+        "Documents",
+        "Followers"
+      ]
+    },
+    {
+      "title": "Account",
+      "iconSrc": "/assets/icons/contact.svg",
+      "subMenus": ["Menu 1", "Menu 2", "Menu 3"]
+    },
+    {
+      "title": "Corporate",
+      "iconSrc": "/assets/icons/users.svg",
+      "subMenus": ["Menu 1", "Menu 2", "Menu 3"]
+    },
+    {
+      "title": "Blog",
+      "iconSrc": "/assets/icons/closeBook.svg",
+      "subMenus": ["Menu 1", "Menu 2", "Menu 3"]
+    },
+    {
+      "title": "Social",
+      "iconSrc": "/assets/icons/chat.svg",
+      "subMenus": ["Menu 1", "Menu 2", "Menu 3"]
+    }
+  ]
+}
